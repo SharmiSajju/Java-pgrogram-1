@@ -33,5 +33,7 @@ public class Pgm6 {
 			System.out.println(lowercase);
 			System.out.println(num);
 			System.out.println(special);
-		
+			System.out.println("START");
+		System.out.println("**********Sharmi*****************");
+		System.out.println("FINSIH");
 }}
